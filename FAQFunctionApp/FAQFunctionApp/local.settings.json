@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "DBConnectionString": "AccountEndpoint=https://liriano23.documents.azure.com:443/;AccountKey=mGzugn9VQ1WLwx4D7FgZVcvCUabOJSKOjU6gebC5umur0AiciFStawPAizygQ9ogm1eQeNcVktQXvMaQy3XqyQ==;"
+  }
+}

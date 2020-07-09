@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="FAQUIApp">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
